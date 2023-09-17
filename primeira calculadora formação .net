@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 
-namespace Habilidades_Heroi.Models
+namespace Calculadora1
 {
     public class Calculadora
     {
